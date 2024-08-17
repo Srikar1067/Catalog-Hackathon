@@ -2,7 +2,7 @@
 
 The **Automatic Health Monitoring System** is designed to help manage patient records, store diagnosis reports, and retrieve them to avoid repetitive diagnoses. This Java-based system can be useful in rural and sub-urban areas where regular checkups might be a burden.
 
-##Features we can use:
+## Features we can utilize:
 1. **Patient Registration**: Allows users to register new patients with basic details.
 2. **Diagnosis Report Storage**: Stores and links diagnosis reports to specific patients.
 3. **Retrieve Reports**: Allows retrieval of a patient’s previous diagnosis reports to avoid unnecessary repeat diagnoses.
