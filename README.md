@@ -17,4 +17,4 @@ The **Automatic Health Monitoring System** is designed to help manage patient re
 5. **Send Emergency Alerts**: Notify patients about critical health situations requiring immediate attention.
 
 Some of the extra features are added such as providing the health tips based on their age.
-So,these type of features are added into the Automatic health monitoring system we can advance this with futurre enhancements such as creating a Database and UI for better usage of this Health Monitoring System.
+So,these type of features are added into the Automatic health monitoring system we can advance this with future enhancements such as creating a Database and UI for better usage of this Health Monitoring System.
